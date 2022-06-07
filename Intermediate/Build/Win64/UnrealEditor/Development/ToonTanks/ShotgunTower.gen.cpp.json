@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\shotguntower.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\toontankseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\development\\toontanks\\definitions.toontanks.h",
+            "d:\\unreal projects\\toontanks\\source\\toontanks\\shotguntower.h",
+            "d:\\unreal projects\\toontanks\\source\\toontanks\\tower.h",
+            "d:\\unreal projects\\toontanks\\source\\toontanks\\basepawn.h",
+            "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\basepawn.generated.h",
+            "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\tower.generated.h",
+            "d:\\unreal projects\\toontanks\\intermediate\\build\\win64\\unrealeditor\\inc\\toontanks\\shotguntower.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
